@@ -163,7 +163,7 @@ Only team from Mansoura University to qualify for **National Finals – Season 1
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Areej%20Elshebly-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/areej-elshebly)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Areej%20Elshebly-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areej-elshebly-383b2b267)
 [![GitHub](https://img.shields.io/badge/GitHub-Areejmohamed1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Areejmohamed1)
 [![Email](https://img.shields.io/badge/Email-areejelshebly@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:areejelshebly@gmail.com)
 
