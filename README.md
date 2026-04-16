@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+real+decisions+📊;11M%2B+transactions+processed+%26+analyzed+🚀;Power+BI+%7C+SQL+%7C+Python+%7C+Databricks;From+Mansoura+to+the+National+Finals+🏆"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+real+decisions;11M%2B+transactions+processed+%26+analyzed;Exel+%7C+Power+BI+%7C+SQL+%7C+Python+%7C+Databricks;"/>
 </div>
 
 <br/>
